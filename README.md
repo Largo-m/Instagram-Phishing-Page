@@ -1,3 +1,8 @@
+> [!NOTE]
+> **This repository is a fork of [Largo-m/Instagram-Phishing-Page](https://github.com/Largo-m/Instagram-Phishing-Page).**
+> Releases, issues, documentation and pull requests live in the upstream repository; use it
+> unless you specifically need this copy. Refresh with `git fetch upstream && git merge upstream/main`.
+
 # 🎯 Flask Educational Login Page – Credential Capture Simulation
 
 ## ⚠️ Legal Disclaimer
